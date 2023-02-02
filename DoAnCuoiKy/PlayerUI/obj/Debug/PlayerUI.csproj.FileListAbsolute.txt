@@ -1,0 +1,563 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+D:\D\BaiTapHocKy2,Nam2\LapTrinhWindow\DoAnCuoiKy\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\HP\Downloads\New folder\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+D:\Lập trình Windown\Đồ án\New folder (2)\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LichCV.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LuongNV.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeNhanVien.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHoaDon.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHopDong.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeDoanhThu.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThayDoiThongTinBaiGuiXe.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoanhThuTrongNgay.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.CheckInOut.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoanhThuTrongNgay.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.CheckInOut.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LichCV.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LuongNV.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeNhanVien.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHoaDon.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHopDong.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeDoanhThu.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThayDoiThongTinBaiGuiXe.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiaCaNhanVien.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChonXeForm.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.UpdateTinhTrangXeForm.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DatXeForm.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DSDatXeForm.resources
+C:\Users\ACER\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKiTaiKhoanChoKhachHang.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiaCaNhanVien.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChonXeForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKiTaiKhoanChoKhachHang.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DatXeForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DSDatXeForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoanhThuTrongNgay.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.CheckInOut.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LichCV.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LuongNV.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeNhanVien.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHoaDon.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHopDong.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeDoanhThu.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThayDoiThongTinBaiGuiXe.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.UpdateTinhTrangXeForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiaCaNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChonXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKiTaiKhoanChoKhachHang.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DatXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DSDatXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoanhThuTrongNgay.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.CheckInOut.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LichCV.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LuongNV.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHoaDon.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeDoanhThu.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThayDoiThongTinBaiGuiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.UpdateTinhTrangXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeKhachHangForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLiTaiKhoanForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLiTaiKhoanForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeKhachHangForm.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinKhachHang.resources
+C:\Users\HP\Desktop\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LoginForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LoginForm.resources
+C:\Users\ACER\Downloads\Cuoiki\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinKhachHang.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiaCaNhanVien.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChonXeForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKiTaiKhoanChoKhachHang.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DatXeForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DSDatXeForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LoginForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.UpdateTinhTrangXeForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLiTaiKhoanForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeKhachHangForm.resources
+C:\Users\HP\Downloads\Beta1\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinKhachHang.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe.config
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiaCaNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChonXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKiTaiKhoanChoKhachHang.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DatXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DSDatXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoanhThuTrongNgay.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ChiTietBaoHanhXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DangKyBaoHanh.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.BoPhan.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.CheckInOut.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.DoiMatKhau.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.GuiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LichCV.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LuongNV.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HoaDon.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.LoginForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ButtonImage_Hover.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.HomeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.MainFormMenu.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinNV.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinCacNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVaoRaBen.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyVeXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyBaiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLyHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeNhanVien.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHoaDon.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeHopDong.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeDoanhThu.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThayDoiThongTinBaiGuiXe.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.UpdateTinhTrangXeForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.QuanLiTaiKhoanForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongKeKhachHangForm.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.ThongTinKhachHang.resources
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ACER\Downloads\Cuoiki\DoAnCuoiKy\PlayerUI\obj\Debug\PlayerUI.pdb
